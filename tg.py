@@ -3,7 +3,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 
 # Replace with your bot token
 BOT_TOKEN = "7814412283:AAHzuB-nTKxha5t1gda_VU7F3CQCvXf1_5c"
-GAME_URL = "https://himan989.github.io/HimanshuShiyara/"  # Replace with your Unity WebGL game link
+GAME_URL = "https://himan989.github.io/AviatorGame/"  # Replace with your Unity WebGL game link
 
 # Initialize bot
 bot = telebot.TeleBot(BOT_TOKEN)
